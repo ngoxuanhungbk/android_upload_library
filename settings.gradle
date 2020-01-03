@@ -1,0 +1,2 @@
+include ':app', ':testlibrary'
+rootProject.name='library_upload_test'
